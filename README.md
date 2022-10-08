@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliumairdev&label=Profile%20views&color=0e75b6&style=flat" alt="aliumairdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliumairdev" alt="aliumairdev" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliumairdev](https://github.com/aliumairdev)
 
