@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliumairdev](https://github.com/aliumairdev)
 
-- 💬 Ask me about **Flutter, ROR , Android**
+- 💬 Ask me about **React, ROR , Android**
 
 - 📫 How to reach me **aliumair.dev@gmail.com**
 
