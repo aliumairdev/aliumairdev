@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/aliumairdev](https://github.com/aliumairdev)
+- 👨‍💻 All of my projects are available at [https://github.com/aliumairdev](https://github.com/aliumairdev?tab=repositories)
 
 - 🌏 [aliumair.dev](https://aliumair.dev/)
 
