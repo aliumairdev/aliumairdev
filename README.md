@@ -66,10 +66,6 @@ Senior Software Engineer with 5+ years of experience in building scalable web an
   <img src="https://github-readme-stats.vercel.app/api?username=aliumairdev&show_icons=true&theme=radical" alt="aliumairdev" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliumairdev&theme=radical" alt="aliumairdev" />
-</p>
-
 ### 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/ali-umair-a138a21bb" target="blank">
